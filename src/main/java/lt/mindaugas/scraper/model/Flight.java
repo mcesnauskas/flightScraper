@@ -1,4 +1,4 @@
-package lt.mindaugas.scraper.testing;
+package lt.mindaugas.scraper.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

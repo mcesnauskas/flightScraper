@@ -1,9 +1,9 @@
 package lt.mindaugas.scraper;
 
-import lt.mindaugas.scraper.testing.CSVExportService;
-import lt.mindaugas.scraper.testing.FlightDataFetcher;
-import lt.mindaugas.scraper.testing.FlightDataParser;
-import lt.mindaugas.scraper.testing.FlightRecommendation;
+import lt.mindaugas.scraper.service.CSVExportService;
+import lt.mindaugas.scraper.service.FlightDataFetcher;
+import lt.mindaugas.scraper.service.FlightDataParser;
+import lt.mindaugas.scraper.model.FlightRecommendation;
 
 import java.util.Map;
 

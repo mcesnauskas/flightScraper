@@ -1,7 +1,7 @@
-package lt.mindaugas.scraper.testing;
+package lt.mindaugas.scraper.service;
 
-import lt.mindaugas.scraper.testing.Flight;
-import lt.mindaugas.scraper.testing.FlightRecommendation;
+import lt.mindaugas.scraper.model.Flight;
+import lt.mindaugas.scraper.model.FlightRecommendation;
 
 import java.io.PrintWriter;
 import java.util.List;

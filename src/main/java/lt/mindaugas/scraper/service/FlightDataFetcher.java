@@ -1,4 +1,4 @@
-package lt.mindaugas.scraper.testing;
+package lt.mindaugas.scraper.service;
 
 import java.net.URI;
 import java.net.http.HttpClient;
